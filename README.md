@@ -5,6 +5,6 @@ This stub provides starting code for a Python project that uses a virtual enviro
 
 To install:
 ```
-/bin/bash <(curl -s https://raw.githubusercontent.com/dwrightco1/py-stub/master/install.sh)
+/bin/bash <(curl -s https://raw.githubusercontent.com/dwrightco1/pystub/master/install.sh)
 ```
 
